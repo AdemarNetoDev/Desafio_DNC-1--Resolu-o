@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    font-family: inter;
+    
+}
+
+#menusuperior{
+    background-color: #303030;
+    Width: 1440px;
+    Height:350px;
+    padding-top: 100px;
+    
+}
+
+
+#titulomenusuperior{
+    color: #FFFFFF;
+    Width:1024px;
+    Height:72px;
+    margin-top:120px;
+    margin-left:62px;
+    font-size: 53px;
+    
+    
+}
+
+#paragrafomenusuperior{
+    color: #FFFFFF;
+    Width:1024px;
+    Height:28px;
+    margin-top:0px;
+    margin-left:62px;
+    
+}
+
+#menuinformacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 50px;
+    
+
+}
+
+.numero{
+    font-weight: bolder;
+    color: #000000;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.texto{
+    color: #000000;
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+#provasocial{
+    
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+
+#titulo-provasocial{
+    color: #000000;
+    font-size: 40 px;
+    margin-top: 280px;
+    margin-left: 50px;
+   
+}
+
+#texto-provasocial{
+    color: #000000;
+    font-size: 19px;   
+    margin-left: 50px;
+}
+
+#imagem1{
+    Width:510px;
+    Height:605px;
+    margin-top:15%;
+    margin-left: 150px;
+    padding: 0px;
+    
+    
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    Width:1440px;
+    Height:450px;
+    
+}
+
+#tituloformulario{
+    color: #FFFFFF;
+    font-size: 21px;
+    Width:944px;
+    Height: 48px;
+    
+    margin-left:248px;
+    padding-top: 75px;
+}
+
+
+input{
+    Width: 300px;
+    Height:45px;
+    background-color: #FFFFFF;
+    border: 0px;
+    margin: 15px;
+    padding-left: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: #C07212;
+    Height:50px;
+    Width: 200px;
+    color: #FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Raleway;
+    font-weight: bolder;
+    
+}
+
